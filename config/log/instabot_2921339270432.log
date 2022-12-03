@@ -1,0 +1,10 @@
+2022-12-03 15:27:41,322 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2022-12-03 15:27:41,322 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\shash\AppData\Roaming\Python\Python310\site-packages\instabot\bot\bot.py
+2022-12-03 15:27:41,323 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2022-12-03 15:27:41,324 - instabot version: 0.117.0 (api_login) - INFO - Recovery from E:\projects\gumshuda-marimo/config/gumshuda_marimo_uuid_and_cookie.json: COOKIE False - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=7664b500-555e-466b-991f-05499addc473
+- uuid=02c2292a-b997-400d-acbe-52bca216d21c
+- client_session_id=a22bcf12-b8c7-4dd0-9dc5-a418c80a3271
+- device_id=android-5267a15e98ecfcd5
+2022-12-03 15:27:41,326 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!

@@ -1,0 +1,19 @@
+2022-12-03 19:56:24,078 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2022-12-03 19:56:24,078 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\shash\AppData\Roaming\Python\Python310\site-packages\instabot\bot\bot.py
+2022-12-03 19:56:24,088 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2022-12-03 19:56:24,088 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2022-12-03 19:56:24,088 - instabot version: 0.117.0 (api_login) - INFO - Recovery from E:\projects\gumshuda-marimo/config/spikydoodle_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=440a47aa-5ff2-4adb-8744-f1b2b2d31592
+- uuid=310a7e46-ac02-442e-ab4f-a601eeb91a36
+- client_session_id=34daa9d8-718b-437f-b0cf-283451a8c586
+- device_id=android-b8fc2c47fbd03f4a
+2022-12-03 19:56:24,090 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2022-12-03 19:56:25,495 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2022-12-03 19:56:26,450 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2022-12-03 19:56:26,450 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'spikydoodle'!
+2022-12-03 19:56:26,450 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: E:\projects\gumshuda-marimo/config/spikydoodle.checkpoint
+2022-12-03 19:56:30,605 - instabot version: 0.117.0 (api_photo) - ERROR - Photo Upload failed with the following response: <Response [400]>
+2022-12-03 19:56:30,605 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'posts/post.jpg' is not uploaded.
+2022-12-03 19:56:30,605 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: E:\projects\gumshuda-marimo/config/spikydoodle.checkpoint
+2022-12-03 19:56:30,610 - instabot version: 0.117.0 (bot) - INFO - Total requests: 31

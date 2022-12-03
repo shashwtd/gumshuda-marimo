@@ -1,0 +1,19 @@
+2022-12-03 19:02:42,622 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2022-12-03 19:02:42,624 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\shash\AppData\Roaming\Python\Python310\site-packages\instabot\bot\bot.py
+2022-12-03 19:02:42,634 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2022-12-03 19:02:42,635 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2022-12-03 19:02:42,635 - instabot version: 0.117.0 (api_login) - INFO - Recovery from E:\projects\gumshuda-marimo/config/gumshuda_marimo_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=354c8d3f-d4c2-445e-9f1b-dd4917b8a2fc
+- uuid=19aea941-3c22-4edc-9709-749a42de62fb
+- client_session_id=d620a399-2da4-4a06-bc8b-1e2cd0cba307
+- device_id=android-5267a15e98ecfcd5
+2022-12-03 19:02:42,636 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2022-12-03 19:02:44,111 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2022-12-03 19:02:45,145 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2022-12-03 19:02:45,147 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'gumshuda_marimo'!
+2022-12-03 19:02:45,148 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: E:\projects\gumshuda-marimo/config/gumshuda_marimo.checkpoint
+2022-12-03 19:02:48,836 - instabot version: 0.117.0 (api_photo) - ERROR - Photo Upload failed with the following response: <Response [400]>
+2022-12-03 19:02:48,837 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'posts/poster.png' is not uploaded.
+2022-12-03 19:02:48,839 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: E:\projects\gumshuda-marimo/config/gumshuda_marimo.checkpoint
+2022-12-03 19:02:48,840 - instabot version: 0.117.0 (bot) - INFO - Total requests: 31
